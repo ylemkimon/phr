@@ -80,7 +80,7 @@ function App() {
       "해소되지 못한 감정은 주의집중 곤란, 기억력 저하, 지각이나 판단의 왜곡 등의 영향을 미치며, 신체화하여 몸이 아프기도 하다.",
     ],
   }, {
-    url: "https://aolclfvhbbaq5612523.cdn.ntruss.com/4-2.mp4",
+    url: "https://aolclfvhbbaq5612523.cdn.ntruss.com/4-2_1.mp4",
     selectionTime: 77,
     selectionTitle: "나랑 다닐 이유가 없다고?",
     selection: [{
@@ -100,7 +100,7 @@ function App() {
       "또한 친구에 대한 기대가 좌절되고 실망감이 누적되었을 때, 투자와 보상의 균형이 깨졌을 경우, 관계가 해체될 수 있다."
     ],
   }, {
-    url: "https://aolclfvhbbaq5612523.cdn.ntruss.com/5-2.mp4",
+    url: "https://aolclfvhbbaq5612523.cdn.ntruss.com/5-2_1.mp4",
     endingTitle: "비폭력 대화",
     endingDescription: [
       "비폭력 대화는 자신과 타인을 희생하거나 해치지 않으면서, 모두의 욕구를 동시에 만족시키는 의사소통이다.",
