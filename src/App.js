@@ -122,7 +122,7 @@ function App() {
   return (
     <div className="App">
       <div className="videocontainer">
-        <video ref={player} onTimeUpdate={() => {
+        <video playsInline ref={player} onTimeUpdate={() => {
           if (selection !== (player.current.currentTime > videos[step].selectionTime)) {
             enableSelection(!selection);
           }
